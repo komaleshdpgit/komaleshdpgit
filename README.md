@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @komaleshdpgit
-- ✨ I'm currently pursuing(Third Year) my B.Tech in Computer Engineering from VIT,Pune.
+- ✨ I'm currently pursuing(Third Year)  B.Tech in Computer Engineering from VIT,Pune.
 - 👀 I’m interested in Flutter App development, Web development, Data Structures
 - 🌱 I’m currently learning Flutter and Firebase
 - 💞️ I’m looking to collaborate on App generation using Flutter
