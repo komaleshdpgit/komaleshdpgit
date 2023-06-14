@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @komaleshdpgit
 - ✨ I'm currently pursuing(Final Year)  B.Tech in Computer Engineering from VIT,Pune.
-- 👀 I’m interested in Flutter App development, Web development, Data Structures
+- 👀 I’m interested in Flutter App development, Web development, Data Structures, OS and CN
 - 🌱 I’m currently learning Flutter and Firebase
-- 💞️ I’m looking to collaborate on App generation using Flutter
+- 💞️ I’m looking to collaborate and work on innovational Projects
 - 📫 How to reach me Mail me @komalesh.patil20@vit.edu
 
 <!---
